@@ -461,9 +461,9 @@ form .btn2 {
     display: block;
 }
 
-@keyframes aboutspinner {
+@keyframes aboutspinning {
     100% {
-        transform: translate(-50%, -50%) rotate(360 deg);
+        transform: translate(-50%, -50%) rotate(360deg);
     }
 }
 
