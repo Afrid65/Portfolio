@@ -2,8 +2,8 @@
 This is my first git Repository
 
 
-description 
-
+Description 
+The portfolio of first website with frontend
 
 
 front end
